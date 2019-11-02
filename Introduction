@@ -1,0 +1,5 @@
+INTRODUCTION TO CAPSTONE PROJECT
+
+New York and Toronto are financial capitals of their respective countries USA & Canada. They are also high density metros with multi-cultural and diverse populations. We will study through K clustering of Foursquare API data for the neighborhoods of both of the cities. It will be interesting to note similarities and differences between the two cities & classification of areas/suburbs/neighborhoods/boroughs located inside these cities. We can check for similarities within neighbourhoods and whether the two cities reflect any common patterns.
+
+The project analysis relies on accuracy and sample size of foursquare data to reflect the overall behavior of the cities' neighborhoods.
